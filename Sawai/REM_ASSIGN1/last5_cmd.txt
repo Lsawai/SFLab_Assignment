@@ -1,0 +1,5 @@
+   47  cd -
+   48  grep -n "BT19CSE058" /BT19CSE058/E058.txt
+   49  grep -n "BT19CSE058" BT19CSE058/E058.txt
+   50  grep -n "BT19CSE058" BT19CSE058/E058.txt > output_store1.txt
+   51  history | tail -5 > last5_cmd.txt

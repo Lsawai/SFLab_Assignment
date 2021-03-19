@@ -1,0 +1,17 @@
+hfdsjhjhcsdkf badakdjsdsj dhsjknsj jsajsdja  BT19CSE058 dfnsjndsndsan
+dnsjkdsnkds dnsjdsdsjds jdskjdskdsj jdskjdsk
+fhdsdsakdksnjdskds BT19CSE058 bdss sdhasaks shassjkdjk dnsknkd
+dnkskdkdsl ndsjkjdsjjds dsjlksdlk ndskjdsjdls djlsdjdsl
+ksdhdsj nkdsjdsjd jdsjdsds jsdljldsjsd
+dslkdslkd dlkslksk sdkjlsdkds jdlssdlsd qwertyui
+qwertyuio 
+   21  cat -n ASSIGN1/BT19CSE058/E058.txt
+   23  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+   21  cat -n ASSIGN1/BT19CSE058/E058.txt
+   23  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+   26  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+   21  cat -n ASSIGN1/BT19CSE058/E058.txt
+   23  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+   26  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+   29  history | grep cat >> ASSIGN1/BT19CSE058/E058.txt
+BT19CSE058
